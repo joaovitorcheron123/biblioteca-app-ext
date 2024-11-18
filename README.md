@@ -19,7 +19,7 @@ Este é um protótipo de aplicativo de gerenciamento de uma **Biblioteca Públic
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/biblioteca-app.git
+   git clone https://github.com/joaovitorcheron123/biblioteca-app-ext.git
    ```
 
 2. **Instale as Dependências**:
@@ -63,11 +63,6 @@ Este é um protótipo de aplicativo de gerenciamento de uma **Biblioteca Públic
 - **Tela de Detalhes do Livro** Exibe os detalhes de cada livro, e permite editar as informações de status do livro (Disponível ou Reservado), nome do responsável, data de reserva e data de devolução.
 - **Filtros e Busca**: Adicionar filtros por disponibilidade, autor ou título, e uma barra de pesquisa para facilitar a busca de livros.
 - **Funcionalidade de Empréstimos**: Adicionar um sistema para gerenciar empréstimos de livros.
-
-### Contribuindo
-1. Faça um fork do repositório.
-2. Crie uma nova branch (`git checkout -b feature-nome-da-sua-feature`).
-3. Faça as alterações e envie um pull request.
 
 ### Licença
 Este projeto é de código aberto sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
